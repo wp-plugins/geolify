@@ -16,7 +16,7 @@ Geolify is a powerful geolocation and geo targeting plugin. Create geo targeted 
 
 * Geolify is a plugin that allows you to create geo targeted URL redirects and popups for your Wordpress blog. It also allows you to get accurate visitor location data such as continent, country, state, city, latitude and longitude in your Wordpress blog using a simple list of shortcodes.
 
-*No IP to location database installation required *Get setup and running in less than 10 minutes.*Email & live chat support available.* To use Geolify, you will need to create a Geolify account at [Geolify](https://geolify.com/ "Geolify")
+* No IP to location database installation required. *Get setup and running in less than 10 minutes.* Email & live chat support available.* To use Geolify, you will need to create a Geolify account at [Geolify](https://geolify.com/ "Geolify")
 
 .* Setup of your geo targeted redirects, popups & location service is done at [Geolify](https://geolify.com/ "Geolify")
 
