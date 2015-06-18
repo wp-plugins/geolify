@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: geolify
 Donate link: https://geolify.com/
-Tags: geolocation, geo targeting, ip to location, geo, geo popup, geo redirect, country, state, city, ip block, redirect, redirect by location, redirect by country, country based redirect, popup
+Tags: geolocation, geo targeting, ip to location, geo, geo popup, geo redirect, country, state, city, ip block, redirect, redirect by location, redirect by country, country based redirect, popup, country block, spam, ban countries, spam, ban 
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -28,7 +28,7 @@ Geolify is a powerful geolocation and geo targeting plugin. Create geo targeted 
 
 * To get visitor location data in your blog, you will need to purchase impressions
 
-* Check out our geo targeting[blog](https://geolify.com/ "Geolify Blog")
+* Check out our geo targeting [blog](https://geolify.com/ "Geolify Blog")
 
 
 List of Services
