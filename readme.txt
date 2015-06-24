@@ -54,9 +54,7 @@ Geo Redirect
 
 Geo Popup
 
-* Geo popup allows you to dynamically display a light box popup based on visitor location (country, state, city or IP address). You can create multiple popups which 
-
-including rich text, videos, images etc that will display to particular location segment.
+* Geo popup allows you to dynamically display a light box popup based on visitor location (country, state, city or IP address). You can create multiple popups which including rich text, videos, images etc that will display to particular location segment.
 
 
 Geo Location
