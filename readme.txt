@@ -49,11 +49,7 @@ List of Services
 
 Geo Redirect
 
-* Geo redirects allows you to redirect your visitors 
-
-from any url or your entire Wordpress blog to another specified URL based on visitor location (country, state, city or IP address). You can create multiple URL redirects based on particular 
-
-location segments.
+* Geo redirects allows you to redirect your visitors from any url or your entire Wordpress blog to another specified URL based on visitor location (country, state, city or IP address). You can create multiple URL redirects based on particular location segments.
 
 
 Geo Popup
@@ -66,9 +62,8 @@ including rich text, videos, images etc that will display to particular location
 Geo Location
 
 
-* Geo location allows you to get visitor location data directly in your Wordpress blog using 
+* Geo location allows you to get visitor location data directly in your Wordpress blog using shortcodes. 
 
-shortcodes. 
 
 * Available shortcodes:
 
@@ -76,9 +71,7 @@ shortcodes.
 
 [geolifycontinentname] - Displays continent name eg. North America
 
-[geolifycountrycode] - Displays country 
-
-code eg. US
+[geolifycountrycode] - Displays country code eg. US
 
 [geolifycountryname] - Displays country name eg. United States
 
