@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: geolify
 Donate link: https://geolify.com/
-Tags: geolocation, geo targeting, geo ip, geoip ip to location, geo, geo popup, geo redirect, country, state, city, ip, country block, spam block, ban, ban country, block countries, geo blocking 
+Tags: geolocation, geo targeting, geo ip, geoip ip to location, geo, popup, geo redirect, country, state, city, ip, country block, spam block, ban, ban country, block countries, geo blocking 
 
 block, redirect, redirect by location, redirect by country, country based redirect, popup, country block, spam, ban countries, spam, ban 
 Requires at least: 3.0.1
