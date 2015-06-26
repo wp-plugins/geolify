@@ -10,9 +10,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Geolify is a powerful geolocation and geo targeting plugin. Create geo targeted images, HTML content, popups, URL 
-
-redirects & get visitor country, state and city.
+Geolify is a powerful geolocation targeting plugin. Create geo targeted URL redirects, images, HTML content, popups & get visitor location
 
 == Description ==
 
