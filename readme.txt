@@ -28,7 +28,7 @@ redirects & get visitor country, state and city.
 
 * To use Geolify, you will need to create a Geolify account at [Geolify](https://geolify.com/"Geolify")
 
-* Setup of your geo targeted redirects, popups & location service is done at [Geolify](https://geolify.com/ "Geolify")
+* Setup of your geo targeted redirects, popups & location service is done at [Geolify](https://geolify.com)
 
 * This plugin provides shortcodes to make it easy to use Geolify in Wordpress.
 
