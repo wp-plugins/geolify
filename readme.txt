@@ -24,7 +24,7 @@ Geolify is a powerful geolocation targeting plugin. Create geo targeted URL redi
 
 * Email & live chat support available.
 
-* To use Geolify, you will need to create a Geolify account at [Geolify](https://geolify.com/"Geolify")
+* To use Geolify, you will need to create a Geolify account at [Geolify] (https://geolify.com)
 
 * Setup of your geo targeted redirects, popups & location service is done at [Geolify](https://geolify.com)
 
@@ -34,9 +34,9 @@ Geolify is a powerful geolocation targeting plugin. Create geo targeted URL redi
 
 * Our geo location service is paid due to highly accurate location data. 
 
-* See [free and paid pricing packs](https://geolify.com/pricing "Geolify").
+* See [free and paid pricing packs](https://geolify.com/pricing).
 
-* Check out our geo targeting [blog](https://geolify.com/ "Geolify Blog").
+* Check out our geo targeting [blog](https://geolify.com).
 
 
 
